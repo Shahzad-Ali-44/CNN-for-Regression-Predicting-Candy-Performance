@@ -42,3 +42,7 @@ You are welcome to fork this repository and improve the model! Here are a few id
 ## **Project Goal**
 Demonstrate the use of CNNs for regression tasks and highlight their effectiveness in predicting continuous target values.
 
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
